@@ -1,0 +1,3 @@
+time_set.c:12:6:setTimer1	16	static
+time_set.c:16:6:setTimer2	16	static
+time_set.c:20:6:timerRun	4	static
